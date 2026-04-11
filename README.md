@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning **How to manage projects effectively**
 - I’m looking to collaborate on **Software Projects to Manage it effectively**
 - 📫 How to reach me? Shoot me an email: sourav.themefisher@gmail.com
-- Pronouns: **He/Him**
 - ⚡ Fun fact: I love to watch **Movies**
 
 <!---
