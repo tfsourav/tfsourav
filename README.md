@@ -4,7 +4,7 @@
 - 📫 How to reach me? Shoot me an email: shohanurhsourav@gmail.com
 - 🌐 Visit my website: https://shohanursourav.com
 - 🗓️ Book 1:1 free call: http://cal.com/shohanur-sourav/free-call
-- ⚡ Fun fact: I love to build **Tools**
+- ⚡ Fun fact: I love to build **Digital Tools**
 
 <!---
 shohanursourav/shohanursourav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
